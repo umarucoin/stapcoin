@@ -1,0 +1,3 @@
+debian/manpages/stapd.1
+debian/manpages/stap.conf.5
+debian/manpages/stap-cli.1

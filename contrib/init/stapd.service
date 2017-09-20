@@ -1,0 +1,22 @@
+[Unit]
+Description=STAP's distributed currency daemon
+After=network.target
+
+[Service]
+User=stapcore
+Group=stapcore
+
+Type=forking
+PIDFile=/var/lib/stapd/stapd.pid
+ExecStart=/usr/bin/stapd -daemon -pid=/var/lib/stapd/stapd.pid \
+-conf=/etc/stapcore/stap.conf -datadir=/var/lib/stapd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

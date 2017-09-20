@@ -1,0 +1,6 @@
+usr/local/bin/stap-qt usr/bin
+share/pixmaps/stap32.xpm usr/share/pixmaps
+share/pixmaps/stap16.xpm usr/share/pixmaps
+share/pixmaps/stap128.png usr/share/pixmaps
+debian/stap-qt.desktop usr/share/applications
+debian/stap-qt.protocol usr/share/kde4/services/

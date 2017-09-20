@@ -1,0 +1,2 @@
+usr/local/bin/stapd usr/bin
+usr/local/bin/stap-cli usr/bin

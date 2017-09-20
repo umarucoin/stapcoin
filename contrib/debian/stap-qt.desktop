@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=STAP
+Comment=STAP P2P Cryptocurrency
+Comment[fr]=STAP, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=STAP, eşten eşe kriptografik sanal para birimi
+Exec=stap-qt %u
+Terminal=false
+Type=Application
+Icon=stap128
+MimeType=x-scheme-handler/stap;
+Categories=Office;Finance;

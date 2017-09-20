@@ -1,0 +1,11 @@
+[Protocol]
+exec=stap-qt '%u'
+protocol=stap
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
