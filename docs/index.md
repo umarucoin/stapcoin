@@ -1,1 +1,1 @@
-STAPcoinはあります
+STAPcoinはあります。
