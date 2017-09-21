@@ -4,11 +4,11 @@
 
 STAP Core version 0.12.0 is now available from:
 
-  https://stappay.io/downloads
+  https://umarucoin.io/downloads
 
 Please report bugs using the issue tracker at github:
 
-  https://github.com/stappay/stap/issues
+  https://github.com/umarucoin/stapcoin/issues
 
 
 How to Upgrade

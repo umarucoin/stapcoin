@@ -25,8 +25,8 @@ Build-Depends: debhelper,
  python
 Standards-Version: 3.9.2
 Homepage: https://www.stap.org/
-Vcs-Git: git://github.com/stappay/stap.git
-Vcs-Browser: https://github.com/stappay/stap
+Vcs-Git: git://github.com/umarucoin/stapcoin.git
+Vcs-Browser: https://github.com/umarucoin/stapcoin
 
 Package: stapd
 Architecture: any

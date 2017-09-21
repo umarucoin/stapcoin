@@ -41,7 +41,7 @@ NOTE: Building with Qt4 is still supported, however, could result in a broken UI
 
 1. Clone the GitHub tree to get the source code and go into the directory.
 
-        git clone https://github.com/stappay/stap.git
+        git clone https://github.com/umarucoin/stapcoin.git
         cd stap
 
 2.  Build STAP Core:

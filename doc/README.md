@@ -24,7 +24,7 @@ Drag STAP-Qt to your applications folder, and then run STAP-Qt.
 
 ### Need Help?
 
-* See the [STAP documentation](https://stappay.atlassian.net/wiki/display/DOC)
+* See the [STAP documentation](https://umarucoin.atlassian.net/wiki/display/DOC)
 for help and more information.
 * Ask for help on [#stappay](http://webchat.freenode.net?channels=stappay) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=stappay).
 * Ask for help on the [STAPTalk](https://staptalk.org/) forums.

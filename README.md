@@ -1,7 +1,7 @@
 STAP Core staging tree 0.12.1
 ===============================
 
-`master:` [![Build Status](https://travis-ci.org/stappay/stap.svg?branch=master)](https://travis-ci.org/stappay/stap) `v0.12.0.x:` [![Build Status](https://travis-ci.org/stappay/stap.svg?branch=v0.12.0.x)](https://travis-ci.org/stappay/stap/branches) `v0.12.1.x:` [![Build Status](https://travis-ci.org/stappay/stap.svg?branch=v0.12.1.x)](https://travis-ci.org/stappay/stap/branches)
+`master:` [![Build Status](https://travis-ci.org/umarucoin/stapcoin.svg?branch=master)](https://travis-ci.org/umarucoin/stapcoin) `v0.12.0.x:` [![Build Status](https://travis-ci.org/umarucoin/stapcoin.svg?branch=v0.12.0.x)](https://travis-ci.org/umarucoin/stapcoin/branches) `v0.12.1.x:` [![Build Status](https://travis-ci.org/umarucoin/stapcoin.svg?branch=v0.12.1.x)](https://travis-ci.org/umarucoin/stapcoin/branches)
 
 https://www.stap.org
 
@@ -29,7 +29,7 @@ Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/stappay/stap/tags) are created to indicate new official,
+[Tags](https://github.com/umarucoin/stapcoin/tags) are created to indicate new official,
 stable release versions of STAP Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).

@@ -7,7 +7,7 @@ Use the autogen script to prepare the build environment.
     make
 
 Precompiled binaries are available at github, see
-https://github.com/stappay/stap-binaries
+https://github.com/umarucoin/stapcoin-binaries
 
 Always verify the signatures and checksums.
 
