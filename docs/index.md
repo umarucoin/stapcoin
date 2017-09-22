@@ -19,7 +19,7 @@ not premined<br>
 P2P Port: 9669<br>
 RPC Port: 9668<br>
 <br>
-Download binary(Win64, Ubuntu64)
+Download binary(Win64, Ubuntu64)<br>
 [STAPcoin](https://github.com/umarucoin/stapcoin/releases)は本当にあります。<br>
 <br>
 [UMRcoin](https://umarucoin.github.io/)もあります。
