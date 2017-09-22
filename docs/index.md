@@ -21,3 +21,4 @@ RPC Port: 9668<br>
 <br>
 <br>
 STAPcoinは本当にあります。<br>
+UMRcoin[https://umarucoin.github.io/]もあります。
