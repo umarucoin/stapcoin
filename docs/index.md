@@ -8,7 +8,6 @@ Difficulty is same as DASH after instamine block.<br>
 50 coin can instamine or not?<br>
 STAPcoin itself is the answer of DASH instamine issues.<br>
 <br>
-<br>
 Algorithm: X11<br>
 Block time: 2.0 minutes<br>
 Block reward of block #1: 50 STAP<br>
@@ -18,7 +17,6 @@ Difficulty re-target: every block (Dark Gravity Wave v3)<br>
 not premined<br>
 P2P Port: 9669<br>
 RPC Port: 9668<br>
-<br>
 <br>
 [STAPcoin](https://github.com/umarucoin/stapcoin/releases)は本当にあります。<br>
 [UMRcoin](https://umarucoin.github.io/)もあります。
