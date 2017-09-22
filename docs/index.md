@@ -14,7 +14,7 @@ Block time: 2.0 minutes<br>
 Block reward of block #1: 50 STAP<br>
 Total STAP : 42,000,000 STAP<br>
 SubsidyHalvingInterval : 788400 blocks<br>
-Difficulty re-target: every block (Dark Gravity Wave v3)<br>
+Difficulty re-target: every block (Dark Gravity Wave)<br>
 not premined<br>
 P2P Port: 9669<br>
 RPC Port: 9668<br>
