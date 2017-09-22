@@ -6,7 +6,8 @@ Instamine issues of DASH may be disscussed forever.<br>
 The reward of STAPcoin Block#1 is changed to 50 coin from 500 coin.<br>
 Difficulty is same as DASH after instamine block.<br>
 50 coin can instamine or not?<br>
-STAPcoin itself is the answer of DASH instamin issues.<br>
+STAPcoin itself is the answer of DASH instamine issues.<br>
+<br>
 <br>
 Algorithm: X11<br>
 Block time: 2.0 minutes<br>
@@ -19,3 +20,4 @@ P2P Port: 9669<br>
 RPC Port: 9668<br>
 <br>
 <br>
+STAPcoinは本当にあります。<br>
