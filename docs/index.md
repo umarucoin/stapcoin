@@ -3,6 +3,7 @@ STAPcoin does exist.<br>
 <br>
 STAPcoin is DASH clone, well known about instamine issues, modded some param.<br>
 Instamine issues of DASH may be disscussed forever.<br>
+STAPcoin is made to finish the Never Ending Story.<br>
 The reward of STAPcoin Block#1 is changed to 50 coin from 500 coin.<br>
 Difficulty is same as DASH after instamine block.<br>
 STAPcoin has same function as DASH v12.1.5.<br>
