@@ -8,7 +8,7 @@ The reward of STAPcoin Block#1 is changed to 50 coin from 500 coin.<br>
 Difficulty is same as DASH after instamine block.<br>
 STAPcoin has same function as DASH v0.12.1.5.<br>
 Any HELP and FAQ of DASH can be used to STAPcoin.<br>
-50 coin can instamine or not?<br>
+50 coin can be instamined or not?<br>
 STAPcoin itself is the answer of DASH instamine issues.<br>
 <br>
 Algorithm: X11<br>
