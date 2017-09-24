@@ -251,11 +251,11 @@ bool CheckProofOfWork(uint256 hash, unsigned int nBits, const Consensus::Params&
 
     // Check range
     if (fNegative || bnTarget == 0 || fOverflow || bnTarget > UintToArith256(params.powLimit))
-        return error("CheckProofOfWork(): nBits below minimum work");
+        return false;//error("CheckProofOfWork(): nBits below minimum work");
 
     // Check proof of work matches claimed amount
     if (UintToArith256(hash) > bnTarget)
-        return error("CheckProofOfWork(): hash doesn't match nBits");
+        return false;//error("");//("CheckProofOfWork(): hash doesn't match nBits");
 
     return true;
 }
