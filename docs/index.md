@@ -14,6 +14,7 @@ STAPcoin itself is the answer of DASH instamine issues.<br>
 Algorithm: X11<br>
 Block time: 2.0 minutes<br>
 Block reward of block #1: 50 STAP<br>
+Block reward after #2: controlled by moore's law<br>
 Total STAP : 42,000,000 STAP<br>
 SubsidyHalvingInterval : 788400 blocks<br>
 Difficulty re-target: every block (Dark Gravity Wave)<br>
