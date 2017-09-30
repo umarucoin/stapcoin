@@ -9,7 +9,7 @@ https://umarucoin.github.io/stapcoin/
 What is STAPcoin(STAP)?
 -----------------------
 
-STAPcoin is an experimental new digital currency that enables anonymous, instant
+STAPcoin is one of DASH clone currency that enables anonymous, instant
 payments to anyone, anywhere in the world. STAP uses peer-to-peer technology
 to operate with no central authority: managing transactions and issuing money
 are carried out collectively by the network. STAP Core is the name of the open
